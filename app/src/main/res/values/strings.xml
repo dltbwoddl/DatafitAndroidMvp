@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">firestoredatafit</string>
+    <string name="refresh">refresh</string>
+    <string name="plus">회원 추가하기</string>
+    <string name="save">저장</string>
+    <string name="explus">상세정보 입력 (아래 양식 확인) </string>
+    <string name="newexplus">새로운 운동 추가</string>
+    <string name="newexplus2">해당 부위에 새로운 운동을 추가하기</string>
+    <string name="plusname">이름</string>
+    <string name="plusage">나이</string>
+    <string name="plussex">성별(남 or 여)</string>
+    <string name="plusheight">키 (cm)</string>
+    <string name="plusweight">몸무게 (kg)</string>
+    <string name="plusmuscle">골격근량 (kg)</string>
+    <string name="plusfat">체지방량 (kg)</string>
+    <string name="search">이름으로 검색하기</string>
+    <string name="entire">새로고침</string>
+    <string name="detail">상세정보</string>
+    <string name="searchexBtn">운동 검색</string>
+    <string name="newpart">새로운 운동 부위 추가하기.</string>
+    <string name="re">회원 복원</string>
+    <string name="rename">체크 박스 누르면 복원</string>
+    <string name="warning2">- 운동 정보 입력 양식 -\n\n
+    운동 이름 + 중량 or 시간 + 반복수 + 세트수</string>
+    <string name="warning">이름 중복 없이 작성해주십시오.</string>
+    <string name="warning3">
+        나이, 성별, 키, 몸무게, 골격근량,체지방량 순\n
+        반드시 숫자로 입력, 숫자이외에 입력 금지</string>
+</resources>

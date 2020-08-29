@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "486372085816",
+    "firebase_url": "https://practice-1c8b0.firebaseio.com",
+    "project_id": "practice-1c8b0",
+    "storage_bucket": "practice-1c8b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486372085816:android:f2b8b93d3313a53f4c96cd",
+        "android_client_info": {
+          "package_name": "com.example.firestoredatafit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486372085816-esvh3hag7r8sf2bnusoi7qk81v4q8emo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYasZy4PlmQ5100Lj5CgaYvq3xqCwp3BQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486372085816-esvh3hag7r8sf2bnusoi7qk81v4q8emo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
